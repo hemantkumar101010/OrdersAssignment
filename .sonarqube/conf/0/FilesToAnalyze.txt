@@ -1,0 +1,7 @@
+﻿C:\Users\iamte\Desktop\OrdersAssignment\OrdersData\CRUDManager.cs
+C:\Users\iamte\Desktop\OrdersAssignment\OrdersData\DemoDbContext.cs
+C:\Users\iamte\Desktop\OrdersAssignment\OrdersData\Entities\Customer.cs
+C:\Users\iamte\Desktop\OrdersAssignment\OrdersData\Entities\Item.cs
+C:\Users\iamte\Desktop\OrdersAssignment\OrdersData\Migrations\20220620171502_InitialMigration.cs
+C:\Users\iamte\Desktop\OrdersAssignment\OrdersData\Migrations\20220620171502_InitialMigration.Designer.cs
+C:\Users\iamte\Desktop\OrdersAssignment\OrdersData\Migrations\DemoDbContextModelSnapshot.cs

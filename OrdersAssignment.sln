@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersData", "OrdersData\OrdersData.csproj", "{4B2BA4A2-29A3-4317-917E-5438FE5F5E92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineOrders", "OnlineOrders\OnlineOrders.csproj", "{9FD03196-5F5C-4FB6-927E-36D8F520DFB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B2BA4A2-29A3-4317-917E-5438FE5F5E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2BA4A2-29A3-4317-917E-5438FE5F5E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2BA4A2-29A3-4317-917E-5438FE5F5E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2BA4A2-29A3-4317-917E-5438FE5F5E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD03196-5F5C-4FB6-927E-36D8F520DFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD03196-5F5C-4FB6-927E-36D8F520DFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD03196-5F5C-4FB6-927E-36D8F520DFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD03196-5F5C-4FB6-927E-36D8F520DFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AF61217-A64C-4FF6-930F-3F42E44B4397}
+	EndGlobalSection
+EndGlobal
